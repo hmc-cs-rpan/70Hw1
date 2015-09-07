@@ -3,8 +3,33 @@ CS 70, Palindrome Assignment, Written Answers
 
 Question 1 -------------------------------------------------------------------
 
-
+1) inconsistent capitalization
+2) inconsistent indentation
+3) unclear variable names
+4) not enough documentation
+5) too many nested loops
+6) no line breaks
+7) inconsistent brackets and braces
+8) too many blank lines
+9) redundant code
+10) redefine a global variable locally
+11) magic numbers
 
 Question 2 -------------------------------------------------------------------
+
+Stroustrup:
+advatange: putting brackets on the same line as loop operators makes code more
+concise
+disadvantage: code is harder to read because brackets can become clumped
+
+BSD:
+advantage: larger indents and line spacing make code easier to read
+disadvantage: longer lines of code may be split unnecessarily into multiple
+lines
+
+Whitesmith: 
+advantage: bracket indenting and line spacing make code more readable
+disadvantage: having nested loops may be messy with so many new lines for
+brackets
 
 
