@@ -18,24 +18,24 @@ Bonus: >
 ---
 - Input:  civic
   Output: Yay, that's a palindrome!
-  Notes:  This is a simple plaindrome
+  Notes:  This is a simple palindrome
 
 - Input:  banana
   Output: No, that's not a palindrome.
-  Notes:  This is a simple nonplaindrome
+  Notes:  This is a simple non palindrome
 
 - Input:  sit on a potato pan, otis
   Output: Yay, that's a palindrome!
   Notes:  This example includes spaces and punctuation.
 
 - Input: 1001
-  Output: Yay, that's a palindrome.
+  Output: Yay, that's a palindrome!
   Notes: This tests for numbers as characters.
 
-- Input: !,. .,!
-  Output: Yup! This one is a palindrome.
-  Notes: This example tests exclusively spaces and punctuation.
+- Input: Gert, I saw Ron avoid a radio van--or was it Reg?
+  Output: Yay, that's a palindrome!
+  Notes: This example tests capital letters, spaces, and punctuation.
 
 - Input: 1A 2"3 c% - %c 3"2 A1
-  Output: This is a palindrome.
+  Output: Yay, that's a palindrome!
   Notes: Tests a combination of letters, numerals, spaces, and special characters.
