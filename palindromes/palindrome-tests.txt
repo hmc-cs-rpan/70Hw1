@@ -27,3 +27,7 @@ Bonus: >
 - Input:  sit on a potato pan, otis
   Output: Yay, that's a palindrome!
   Notes:  This example includes spaces and punctuation.
+
+- Input: test
+  Output: This is a test, not a palindrome.
+  Notes: 
