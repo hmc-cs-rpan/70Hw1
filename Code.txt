@@ -20,27 +20,41 @@ Enables extra warning flags that -Wall does not cover.
 
 Question 2 -------------------------------------------------------------------
 
-a)
+a) the string.length() method is the same.
 
-b)
+
+b) When referring to an index in a string, java uses the "charAt" method,
+while c++ uses the ith index.
+c++ uses getline while java uses readline.
 
 
 Question 3 -------------------------------------------------------------------
 
-
+cout << "" << endl;
 
 Question 4 -------------------------------------------------------------------
 
-
+the line "using namespace std;" is used for specifying which library you are
+using to avoid name clashes.  It keeps you from having to write std::
+every time you are using something in the std library.  If "using namespace
+std;" was absent, we would type std::cout and std::endl every time we wanted to print
+text.
 
 Question 5 -------------------------------------------------------------------
 
-a)
+a) When the compiler sees the line "#include lineshuffler.hpp", it refers to
+the file lineshuffler.hpp to determine which classes and functions are
+available.
 
-b)
+b) shuffle.cpp doesn't contain random.hpp because shuffle has the line
+"#include lineshuffler.hpp", and that header file contains "#include
+random.hpp".
 
-c)
+c) The lines must begin with LineShuffler:: because it is using the namespace
+std.  
 
 
 Question 6 -------------------------------------------------------------------
 
+You don't need count_ because you could instead find the size of the vector
+without having to increment count each time.
