@@ -3,7 +3,20 @@ CS 70, Palindrome Assignment, Written Answers
 
 Question 1 -------------------------------------------------------------------
 
+-std=:
+Determines a language standard (only works with C and C++)
 
+c++11 refers to the version of c++ from 2011
+
+-pedantic:
+Rejects programs that use forbidden extensions or incompatible programs.
+
+-Wall:
+Warns the user about questionable constructions, and can provide
+language-specific warnings.
+
+-Wextra:
+Enables extra warning flags that -Wall does not cover.
 
 Question 2 -------------------------------------------------------------------
 
