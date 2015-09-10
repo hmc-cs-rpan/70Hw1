@@ -1,0 +1,47 @@
+Test 1: OK    		("Text that isn't a palindrome.")
+			Command: ./palindrome 
+
+Test 2: OK    		("Was it a car or a cat I saw?")
+			Command: ./palindrome 
+
+Test 3: OK    		("drab as a fool as aloof as a bard")
+			Command: ./palindrome 
+
+Test 4: OK    		("Dennis [... lots more names ...] sinned.")
+			Command: ./palindrome 
+
+Test 5: OK    		(Empty input)
+			Command: ./palindrome 
+
+Test 6: OK    		(Palindrome that contains a '\0' byte.)
+			Command: ./palindrome 
+
+Test 7: OK    		(Non-palindrome that contains a '\0' byte.)
+			Command: ./palindrome 
+
+Test 8: OK    		(512 bytes from /dev/random)
+			Command: ./palindrome 
+
+Test 9: OK    		("+/\-!" <- a palindrome by our definition)
+			Command: ./palindrome 
+
+Test 10: OK    		("i did     did         i")
+			Command: ./palindrome 
+
+Test 11: OK    		("... no lemons ... no melon")
+			Command: ./palindrome 
+
+Test 12: OK    		("... no lemons ... no melon ...")
+			Command: ./palindrome 
+
+Test 13: OK    		("no lemons ... no melon ...")
+			Command: ./palindrome 
+
+Test 14: OK    		("I did I"  )
+			Command: ./palindrome 
+
+Test 15: OK    		("rAceCar"  )
+			Command: ./palindrome 
+
+Test 16: OK    		("Yawn a more Roman way." <- From http://www.futilitycloset.com/2014/01/29/roy-am-i-mayor/ (via Eric Mullen '12))
+			Command: ./palindrome 

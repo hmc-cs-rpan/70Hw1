@@ -1,0 +1,29 @@
+./Code.txt, line 42:
+  - Is 85 characters long (> 80)
+  - Is 82 characters long (> 80)
+./palindromes/palindrome.cpp, line 27:
+  - Is 127 characters long (> 80)
+./palindromes/palindrome.cpp, line 30:
+  - Is 83 characters long (> 80)
+./palindromes/palindrome.cpp, line 31:
+  - Is 84 characters long (> 80)
+./palindromes/palindrome.cpp, line 35:
+  - Is 118 characters long (> 80)
+./palindromes/palindrome.cpp, line 36:
+  - Is 84 characters long (> 80)
+./palindromes/palindrome.cpp, line 39:
+  - Is 136 characters long (> 80)
+./palindromes/palindrome.cpp, line 43:
+  - Is 81 characters long (> 80)
+./palindromes/palindrome.cpp, line 44:
+  - Is 90 characters long (> 80)
+./palindromes/palindrome.cpp, line 45:
+  - Is 114 characters long (> 80)
+./palindromes/palindrome.cpp, line 46:
+  - Is 115 characters long (> 80)
+./palindromes/palindrome.cpp, line 48:
+  - Is 82 characters long (> 80)
+./palindromes/palindrome.cpp, line 50:
+  - Is 115 characters long (> 80)
+./palindromes/palindrome.cpp, line 52:
+  - Is 117 characters long (> 80)

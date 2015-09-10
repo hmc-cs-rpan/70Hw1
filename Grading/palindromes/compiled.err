@@ -1,0 +1,4 @@
+palindrome.cpp:41:22: warning: comparison of integers of different signs: 'int' and 'size_type' (aka 'unsigned long') [-Wsign-compare]
+    for(int i = 0; i < text.length(); i++)  
+                   ~ ^ ~~~~~~~~~~~~~
+1 warning generated.
