@@ -23,6 +23,9 @@ using namespace std;
  *   isPalindrome ignores capitalization and punctuation and spaces
  *
  */
+ // ASCII values cited from http://en.cppreference.com/w/cpp/language/ascii
+ // ASCII to char conversion cited from http://stackoverflow.com/questions/6660145/convert-ascii-number-to-ascii-character-in-c
+ // cited hints and tips for Homework 1 for compiling help
  int START_OF_NUMERALS = 48;                // ASCII values for characters
  int END_OF_NUMERALS = 57;                  // we used these to classify characters
  int START_OF_CAPITALS = 65;                // as numerals, uppercase, and lowercase
