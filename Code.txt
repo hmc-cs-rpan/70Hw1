@@ -1,6 +1,8 @@
 CS 70, Palindrome Assignment, Written Answers
 =============================================
-
+// used g++ manual in Terminal to look up definitions for Question 1
+// used C++ primer for header and namespace information
+// used hints and tips for Homework 1 for reference
 Question 1 -------------------------------------------------------------------
 
 -std=:
